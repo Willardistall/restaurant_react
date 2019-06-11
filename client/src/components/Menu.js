@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Checkbox, Header, Icon, } from "semantic-ui-react";
+import { Button, Header, Icon, } from "semantic-ui-react";
 
 const Menu = ({ id, name, updateMenu, deleteMenu, }) => (
   <div style={styles.flex}>

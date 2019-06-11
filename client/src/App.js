@@ -1,7 +1,7 @@
 import React from 'react';
 import axios from "axios";
 import MenuForm from "./components/MenuForm";
-import TodoList from "./components/TodoList";
+import MenuList from "./components/MenuList";
 import { Container, Header, } from "semantic-ui-react";
 
 class App extends React.Component {
